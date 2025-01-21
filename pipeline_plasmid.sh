@@ -5,7 +5,7 @@ set -e
 set -x  # Enable debugging for detailed output
 
 # Define file names
-reference_file="pl2070.fa"
+reference_file="PL123.fa" #Add reference name
 merged_fastq="merged.fastq"
 filtered_fastq="filtered_output.fastq"
 aligned_sam="aligned_reads.sam"
